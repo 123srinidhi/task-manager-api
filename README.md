@@ -15,3 +15,6 @@ A simple REST API built using Flask and SQLite.
 ## Run
 pip install -r requirements.txt
 python app.py
+## Database Setup
+Run the following script to create the database:
+python create_db.py
